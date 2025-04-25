@@ -1,0 +1,5 @@
+Driver Route Summary
+Route: [0, 1, 2, 3, 0]
+Total Distance: 90.00 km
+Estimated Emissions: 18.90 kg CO2
+Instructions: Start at depot (0), follow route, return to depot.
