@@ -19,4 +19,3 @@ Data Processing: Includes tools for preprocessing and analyzing logistics data t
 Visualization: Provides insights and visualizations to aid in understanding and optimizing logistics processes.
 *Scalability: Designed to accommodate various logistics scenarios, from small businesses to large-scale operations.
 
-Getting Started
